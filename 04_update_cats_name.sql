@@ -1,0 +1,1 @@
+UPDATE cats SET name = 'Simba' WHERE id = 3; 
